@@ -1,0 +1,13 @@
+
+// app.get("/conference/:conference", (req, res) => {
+//   const conf = req.params.conference;
+//   const arr = [];
+//   opts = { conference: conf };
+//   api.getTeams(opts).then(function (data) {
+//     console.log(data[0].location.city);
+//     for (let i = 0; i < data.length; i++) {
+//       arr.push(data[i].school);
+//     }
+//     res.send(arr);
+//   });
+// });
